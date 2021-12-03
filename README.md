@@ -1,6 +1,6 @@
 # Bee Squad Bot
 
-### *Personal Node.js adventure to amuse friends on Twitter*
+### "2017 Personal Node.js adventure to amuse friends on Twitter"
 
 ---
 
