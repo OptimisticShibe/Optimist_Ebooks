@@ -74,5 +74,5 @@ Simple list of contributing twitter accounts + associated emoji for debug messag
 
 Feel free to contact with questions. Cheers!
 
-[![BeeSquadPic](https://pbs.twimg.com/profile_images/906985663718756352/xw2aF-v0_400x400.jpg)](https://twitter.com/BeeSquadBot)
+[![BeeSquadPic](https://cdn.discordapp.com/attachments/279406927140749313/916184920236384316/OYUP2gCc_400x400.png)](https://twitter.com/BeeSquadBot)
 *\*art by [@SharpiBees](https://twitter.com/sharpibees)*
